@@ -1,4 +1,7 @@
 ### Hi there 👋
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=whopper1962&show_icons=true&theme=radical)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=whopper1962&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **whopper1962/whopper1962** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
