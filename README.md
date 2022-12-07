@@ -1,10 +1,14 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=whopper1962&show_icons=true&theme=radical)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=whopper1962&count_private=true&show_icons=true&theme=radical" />
+</a>
+
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whopper1962&layout=compact" />
+</a>
 
 <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **whopper1962/whopper1962** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
