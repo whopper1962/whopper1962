@@ -6,8 +6,6 @@ ___
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=whopper1962&count_private=true&show_icons=true&theme=radical" />
 </a>
 
-___
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whopper1962&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
