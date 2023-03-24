@@ -4,12 +4,12 @@
 
 
 <!-- ___ -->
-<!-- 
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=whopper1962&count_private=true&show_icons=true&theme=radical" />
 </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whopper1962&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whopper1962&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **whopper1962/whopper1962** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
