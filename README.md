@@ -9,8 +9,12 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=whopper1962&count_private=true&show_icons=true&theme=radical" />
 </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whopper1962&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whopper1962&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=whopper1962&theme=outrun) -->
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=whopper1962&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=whopper1962&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=whopper1962&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=whopper1962&theme=radical&utcOffset=8)
 <!--
 **whopper1962/whopper1962** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
