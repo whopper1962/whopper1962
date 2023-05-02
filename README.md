@@ -5,9 +5,9 @@
 
 <!-- ___ -->
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=whopper1962&count_private=true&show_icons=true&theme=radical" />
-</a>
+</a> -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whopper1962&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=whopper1962&theme=outrun) -->
