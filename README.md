@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm whopper1962</h1>
-<img src="https://media.giphy.com/media/6u0tTfr48m71NLBXwg/giphy.gif"/>
+<!-- <img src="https://media.giphy.com/media/6u0tTfr48m71NLBXwg/giphy.gif"/> -->
+<img src="https://media.giphy.com/media/3o7qj3mwYZaGck0NoI/giphy.gif" >
+
 
 <!-- <img src="https://64.media.tumblr.com/e2455fe2cb50361b2ee29b6fb9871ac5/tumblr_pl917i5Lu81s30kt9o3_540.gifv"/> -->
 
