@@ -1,36 +1,7 @@
 <h1 align="center">Hi 👋, I'm Masashi!</h1>
-<!-- <img src="https://media.giphy.com/media/6u0tTfr48m71NLBXwg/giphy.gif"/> -->
-<!-- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3VjOGZ2ejY2MGt3dGJoYWV2NGo5cGlnbXFzOXFlYzR2Y2NxeHRnMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/85IQ2zShKkBhWYj3Cd/giphy.gif" > -->
 
-<!-- <img src="https://media.tenor.com/YE1C1aLvXHcAAAAC/dancing-project-zomboid.gif"> -->
-<!-- <img src="https://steamuserimages-a.akamaihd.net/ugc/943951159919912242/6254D9D424F4C11EC5D864145E20B75A90F39E94/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"> -->
 <img src="https://i.pinimg.com/originals/e4/44/21/e44421229cd0825a9ba6973baf4387c4.gif">
-<!-- <img src="https://i.pinimg.com/originals/d5/ad/13/d5ad134d14e339ff4d5dc11993268895.gif"> -->
 
-<!-- <img src="https://media.giphy.com/media/rEIkMTmkU7tpNpFxbe/giphy.gif"> -->
-
-<!-- <img src="https://media.giphy.com/media/VKUXISNQyCrvA8yMG3/giphy.gif"> -->
-
-
-<!-- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTl6Mmg5NnV0YmxwZTVkZnBxdWVyaDNpeDIzeW1iYWhtOXJhcWRrNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/8R4dKITfWnb2C6eBeI/giphy.gif">-->
-
-<!-- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTl6Mmg5NnV0YmxwZTVkZnBxdWVyaDNpeDIzeW1iYWhtOXJhcWRrNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/8R4dKITfWnb2C6eBeI/giphy.gif"> -->
-
-
-<!-- ![giphy (7)](https://github.com/whopper1962/whopper1962/assets/75473391/3c8f2409-3398-46e0-973e-bef44a569d73) -->
-
-
-<!-- <img src="https://64.media.tumblr.com/e2455fe2cb50361b2ee29b6fb9871ac5/tumblr_pl917i5Lu81s30kt9o3_540.gifv"/> -->
-
-
-<!-- ___ -->
-
-<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=whopper1962&count_private=true&show_icons=true&theme=radical" />
-</a> -->
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whopper1962&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
-<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=whopper1962&theme=outrun) -->
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=whopper1962&theme=radical)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=whopper1962&theme=radical)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=whopper1962&theme=radical)
