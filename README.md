@@ -5,7 +5,6 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=whopper1962&theme=radical)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=whopper1962&theme=radical)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=whopper1962&theme=radical)
-<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=whopper1962&theme=radical&utcOffset=8) -->
 <!--
 **whopper1962/whopper1962** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
