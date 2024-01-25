@@ -39,4 +39,4 @@ Thank you for visiting my profile! I work as a web developer in Japan. I have a 
 <!--<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmJrOHQzcTlxOGZlcWUxMHU5eDdvNXhyY2trbjIxMHlwaXIydDdyYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/NiOKY7k4hznnbnkAsl/giphy.gif">-->
 
 <!-- Doom -->
-<img src="https://i.pinimg.com/originals/e4/44/21/e44421229cd0825a9ba6973baf4387c4.gif">
+<!-- <img src="https://i.pinimg.com/originals/e4/44/21/e44421229cd0825a9ba6973baf4387c4.gif"> -->
