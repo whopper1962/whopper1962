@@ -3,9 +3,6 @@
 <!-- Akira -->
 <img src="https://i.pinimg.com/originals/39/95/0b/39950b377c4890460964775594a7c717.gif">
 
-<!-- Doom -->
-<!-- <img src="https://i.pinimg.com/originals/e4/44/21/e44421229cd0825a9ba6973baf4387c4.gif"> -->
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=whopper1962&theme=radical)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=whopper1962&theme=radical)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=whopper1962&theme=radical)
@@ -38,3 +35,6 @@
 </p>
 
 <!--<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmJrOHQzcTlxOGZlcWUxMHU5eDdvNXhyY2trbjIxMHlwaXIydDdyYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/NiOKY7k4hznnbnkAsl/giphy.gif">-->
+
+<!-- Doom -->
+<img src="https://i.pinimg.com/originals/e4/44/21/e44421229cd0825a9ba6973baf4387c4.gif">
