@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Masashi!</h1>
 
-Thank you for visiting my profile! I work as a web developer in Japan. I have a strong love for JavaScript. My preferred frameworks are Vue and Express. Nice to meet you!😎
+Thank you for visiting my profile! I work as a web developer in Japan. I have a strong love for JavaScript. My preferred frameworks are Vue and Express. Nice to meet ya!😎
 
 <!-- Akira -->
 <img src="https://i.pinimg.com/originals/39/95/0b/39950b377c4890460964775594a7c717.gif">
