@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Masashi!</h1>
 
-<img src="https://i.pinimg.com/originals/e4/44/21/e44421229cd0825a9ba6973baf4387c4.gif">
+<!-- Akira -->
+<img src="https://i.pinimg.com/originals/39/95/0b/39950b377c4890460964775594a7c717.gif">
+
+<!-- Doom -->
+<!-- <img src="https://i.pinimg.com/originals/e4/44/21/e44421229cd0825a9ba6973baf4387c4.gif"> -->
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=whopper1962&theme=radical)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=whopper1962&theme=radical)
