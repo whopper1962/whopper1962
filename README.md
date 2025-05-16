@@ -4,7 +4,7 @@ Thank you for visiting my profile! I work as a web developer in Japan. I have a 
  -->
  
 <!-- Akira -->
-<!-- <img src="https://github.com/user-attachments/assets/5d27b97f-f945-49f1-b175-67133f1a1772" width="100%"> -->
+<img src="https://github.com/user-attachments/assets/5d27b97f-f945-49f1-b175-67133f1a1772" width="100%">
 
 <!--  <img src="https://i.pinimg.com/originals/39/95/0b/39950b377c4890460964775594a7c717.gif" width="100%">  -->
 
